@@ -1,0 +1,521 @@
+dockerodoo acipl
+sudo date -s '2019-04-23 05:45:00'
+sudo date -s '2019-04-23 07:45:00'
+sudo date -s '2019-04-23 00:45:00'
+sudo date -s '2019-04-23 08:45:00'
+sudo date -s '2019-04-23 05:45:00'
+sudo date -s '2019-04-24 05:45:00'
+sudo date -s '2019-04-23 07:45:00'
+date -u
+sudo date -s '2019-04-27 07:45:00'
+sudo date -s '2019-04-17 07:45:00'
+sudo date -s '2019-04-27 07:45:00'
+date
+sudo date -s '2019-04-28 07:45:00'
+date
+sudo date -s '2019-04-25 07:45:00'
+date
+sudo date -s '2019-04-25 07:45:00'
+sudo date -s '2019-04-28 07:45:00'
+date
+sudo date -s '2019-04-15 07:45:00'
+sudo date -s '2019-04-27 07:45:00'
+sudo date -s '2019-04-21 07:45:00'
+sudo date -s '2019-04-26 07:45:00'
+sudo date -s '2019-04-30 07:45:00'
+sudo date -s '2019-05-01 07:45:00'
+sudo date -s '2019-05-01 17:45:00'
+sudo date -s '2019-04-22 17:45:00'
+date
+date -u
+ssh agnistaging@192.168.103.40
+sudo apt update
+ssh agnistaging@192.168.103.40
+attend mahesh checkin
+attend mahesh checkout
+ssh ubuntu@202.51.75.207
+ssh ubuntu@202.51.75.207
+ssh ubuntu@202.51.75.207
+zzz
+qwer 
+zzz
+ssh agnistaging@192.168.103.30
+ssh agnistaging@192.168.103.30
+attend mahesh checkin
+ssh agnistaging@192.168.103.30
+cat /etc/cron.daily/sysstat 
+cat /etc/cron.daily/logrotate 
+man logrotate
+systemd-analyze 
+systemd-analyze blame
+find / -xtype l -print
+find . -xtype l
+du -g /var/log/
+du -h /var/log/
+sudo du -h /var/log/
+cd /var/cache/
+ls
+cd snapd/
+ls
+cd aux/
+ls
+ls /
+cd /etc/kernel/
+ls
+$ systemctl --failed
+systemctl --failed
+sudo systemctl --failed
+cat /etc/systemd/system.conf 
+hs /etc/
+ls /boot/
+uname -a
+ls -lh
+ls -lh  /boot/
+ls
+sudo apt install bleachbit 
+vmstat 
+vmstat -h
+vmstat -disk
+vmstat --disk
+vmstat 
+vmstat --help
+top
+htop
+ps tree
+ssh agnistaging@192.168.103.30
+sudo date -s '2019-04-22 17:45:00'
+hs date
+sudo date -s '2019-04-22 17:45:00'
+sudo date -s '2019-04-30 07:45:00'
+sudo date -s '2019-04-30 08:58:00'
+dexec acipl
+docker staop acipl
+docker stop acipl db10
+docker ps
+docker start db10
+docker start acipl
+ls
+docker ps
+dockerodoo 
+dockerodoo acipl
+ssh agnistaging@192.168.103.40
+qwer 
+cd /var/log/
+ls
+cat faillog 
+cat wtmp
+>/wtmp
+sudo >/wtmp
+ls
+cat syslog
+>/var/log/sysl
+sudo >/var/log/sysl
+>/var/log/sysl
+cd /tmp/
+ls
+echo hello hi > foo
+>foo
+cat foo 
+ls
+nano google_account/models/google_service.py
+services --status-all
+service --status-all
+cat /proc/sys/vm/swappiness 
+python3
+systemctl --failed
+systemd-analyze 
+systemd-analyze blame 
+service --status-all
+service --status-all | grep +
+cat /etc/default/grub
+cat  /etc/cron.daily/dpkg 
+cd  /etc/cron.daily/
+ls
+cat mdadm 
+cat sysstat 
+ls
+cd ..
+crontab -e
+ls
+cd /var/log/
+ls
+tail -f dpkg.log
+lear
+apt autoremove 
+sudo apt autoremove 
+cd /boot/
+ls
+ls -lh
+apt get upgrade
+apt upgrade
+sudo apt upgrade
+clear
+ls .cache/ 
+ls
+cd /var/lib/apt/lists/
+ls
+pwd
+clear
+ls
+car /var/logs
+cd /var/log/
+ls
+du -h ./
+ls
+ls /
+ls -lh
+ls -lh /
+cat /etc/apt/sources.list
+clear
+cat /etc/passwd
+lear
+clear
+cd /tmp/
+ls
+echo hi hello > log
+cat log 
+>log 
+ls
+cat log 
+vmstat 
+vmstat --help
+free -h
+cd /etc/cron.daily/
+ls
+cat /etc/systemd/system.conf 
+clear
+df -h
+lsblk 
+prime-select 
+ps aux
+clear
+sudo date -s '2019-04-30 08:58:00'
+ssh agnistaging@192.168.103.40
+ssh ubuntu@202.51.75.207
+docker start db10
+docker ps -a
+docker start bi-inhouse 
+docker ps -a
+docker stop bi-inhouse 
+docker start aqua_world 
+docker ps -a
+attend mahesh checkout
+zzz
+qwer 
+ssh agnistaging@192.168.103.30
+ps aux | grep kee
+netdata 
+netdata --help
+killall netdata 
+sudo killall netdata 
+ifconfig 
+qwer 
+ssh agnistaging@192.168.103.30
+qwer 
+ssh agnistaging@192.168.103.30
+zzz
+killall firefo
+killall firefox
+ssh agnistaging@192.168.103.30
+qwer 
+ssh binec@192.168.1.222
+ping 192.168.1.222
+viber-unofficial.viber 
+ssh binec@192.168.1.222
+man ssh-keyscan 
+ping 192.168.1.223
+ifconfig 
+ping 192.168.1.198
+pip install tryton==3.4.17
+sudo pip install tryton==3.4.17
+tryton 
+sudo tryton 
+pip remove tryton
+sudo dpkg -i tryton-client_3.4.0-1_all.deb 
+sudo dpkg -i tryton-client-doc_3.4.3-1ubuntu0~ppa1~trusty_all.deb 
+sudo dpkg -i tryton-client_3.4.3-1ubuntu0~ppa1~trusty_all.deb 
+sudo apt remove tryton-client 
+nano /tmp/
+nano /tmp/fo
+sudo add-apt-repository ppa:rayanayar/tryton-3.4
+apt install tryton-
+apt install tryton-client
+sudo apt install tryton-client
+sudo apt remove tryton-client 
+ifconfig 
+ssh gnuhealth@192.168.1.198
+pip install thalamus
+pip install --user thalamus
+ls
+http --verify no --auth 
+sudo apt install httpie
+http --verify no --auth admin:gnusolidario http://192.168.1.198
+http --verify no --auth admin:gnusolidario http://192.168.1.198:8000
+http --verify no --auth admin:gnusolidario https://192.168.1.198:8000
+http --verify no --auth admin:gnusolidario http://192.168.1.198:8000
+http --verify no --auth admin:gnusolidario http://192.168.1.198:8000/people
+python2
+nano /tmp/fo
+clear
+cp /tmp/fo ~/
+tryton-client 
+sudo tryton-client 
+pip uninstall tryton
+sudo pip uninstall tryton
+sudo dpkg -i tryton-client_3.4.0-1_all.deb 
+sudo apt remove tryton-client 
+nmap 192.168.1.198 
+ssh binec@192.168.1.222
+docker ps -a
+ssh gnuhealth@192.168.1.198
+ssh gnuhealth@192.168.1.198
+ssh root@192.168.1.198
+ssh gnuhealth@192.168.1.198
+ls
+docker ps
+docker ps -a
+docke start faae2a620d90
+docker start faae2a620d90
+docker start 393d6f841a01
+docker start faae2a620d90
+ls
+cd tmp/
+cd gnuhealth/
+ls
+sudo docker-compose up
+docker ps 
+dexec gnuhealth_db_1
+nmap 192.168.1.198
+nmap -p 5000 192.168.1.198
+ssh gnuhealth@192.168.1.198
+cat << EOT > /etc/libvirt/qemu.conf
+user  = "oneadmin"
+group = "oneadmin"
+dynamic_ownership = 0
+EOT
+
+sudo cat << EOT > /etc/libvirt/qemu.conf
+user  = "oneadmin"
+group = "oneadmin"
+dynamic_ownership = 0
+EOT
+
+cat << EOT > /etc/libvirt/qemu.conf
+user  = "oneadmin"
+group = "oneadmin"
+dynamic_ownership = 0
+
+nano /etc/libvirt/qemu.conf
+ssh binec@192.168.1.222
+sudo snap install protonmail-desktop-unofficial 
+attend mahesh checkout
+ssh gnuhealth@192.168.1.198
+ssh root@192.168.1.198
+zzz
+reboot 
+qwer 
+clear
+qwer 
+reboo
+reboot
+lsblk
+umount /dev/sda5
+sudo umount /dev/sda5
+sudo umount /media/mahesh/Files 
+sudo 
+sudo umount /media/mahesh/Files 
+sudo umount /dev/sda5
+reboot 
+reboot
+ssh agnistaging@192.168.103.30
+ssh binec@192.168.1.222
+sudo snap install viber-unofficial 
+sudo snap refresh 
+sudo snap refresh viber-unofficial 
+docker ps -a
+docker start db10
+docker start aqua_world
+clear
+ls
+docker ps -a
+ssh gnuhealth@192.168.1.198
+ssh binec@192.168.1.222
+dockerodoo aqua_world
+ssh ubuntu@202.51.75.207
+ssh agnistaging@192.168.103.30
+ssh ubuntu@202.51.75.207
+python2
+ifconfig 
+ssh dell@192.168.1.69
+ssh ubuntu@202.51.75.207
+ssh ubuntu@202.51.75.207
+ls
+qwer 
+cd addons/
+l
+ls
+cd aquaworld-addons/
+ls
+ssh root@192.168.1.198
+ssh root@axonsystem.com.np
+ping 192.168.1.200
+ifconfig 
+ssh root@192.168.1.198
+docker start bi-inhouse 
+clear
+ls
+checkou
+attend mahesh checkout
+zzz
+ssh gnuhealth@192.168.1.198
+ssh agnitwo@192.168.103.25
+docker start db10
+docker start acipl
+docker px
+docker ps
+woeusb 
+hs woeusb
+ssh agnistaging@192.168.103.30
+qwer 
+nslookup bireport.agnicement.com
+ssh agnistaging@192.168.103.30
+qwq
+qwer 
+wqer 
+lsblk 
+sudo mkfs.vfat -I /dev/sdb -n "USB"
+lsblk 
+hs woeusb
+sudo woeusb --device /home/mahesh/Windows\ 7\ SP1\ X86\ X64\ AIO\ OEM\ 27in1\ en-US\ APRIL\ 2018\ \{Gen2\}/W7AIO.OEM.ENU.APR2018.iso /dev/sdb
+sudo umount /dev/sdb1 
+sudo woeusb --device /home/mahesh/Windows\ 7\ SP1\ X86\ X64\ AIO\ OEM\ 27in1\ en-US\ APRIL\ 2018\ \{Gen2\}/W7AIO.OEM.ENU.APR2018.iso /dev/sdb
+top
+free -h
+cpuz
+ls
+clear
+ls
+cpuz
+watch -n .2 cpuz
+top
+docker ps -a
+docker ps -a | grep Up
+docker stop acipl 
+docker stop aqua_world 
+top
+attend mahesh checkin
+rm -rf Aquaworld/
+git clone https://gitlab.com/BI-NEP/Aquaworld
+git clone https://gitlab.com/BI-NEP/Aquaworld --depth=1
+docker start db10
+docker start aqua_world 
+docker ps -a
+dockerodoo aqua_world
+docker ps -a
+dockerodoo aqua_world
+ssh agnistaging@192.168.103.30
+ssh agnift1@192.168.103.40
+ssh agnitwo@192.168.103.25
+ssh shubashree@192.168.103.35
+ssh ubuntu@202.51.75.207
+clear
+ls
+ssh agnitwo@192.168.103.25
+ifconfig 
+docker start db10
+ls
+docker ps
+docker start acipl
+cd addons/acipl/agni-cements-odoo-modules/
+ls
+pwd
+ls
+clear
+ls
+ssh agnistaging@192.168.103.30
+docker ps
+cd addons/acipl/agni-cements-odoo-modules/
+ls
+git pull origin agni_mgmt 
+git status
+qwer 
+sudo apt remove brave-browser 
+clear
+sudo nano /etc/apt/sources.list.d/brave-browser-release-bionic.list
+clear
+cd addons/
+ls
+cd aquaworld-addons/
+ls
+cd Aquaworld/
+ls
+git push origin aqua_help_menu_md 
+docker container ls 
+docker container stop acipl && docker container start -i acipl
+docker container stop acipl && docker container start -i acipl
+docker container stop acipl && docker container start -i acipl
+exit
+ls
+ls -l
+clear 
+htop
+cd addons/
+ls
+cd acipl/
+git status
+ls
+cd agni-cements-odoo-modules/
+ls
+git status
+git diff
+git status
+git status
+git checkout -- .
+git status
+git remote -v
+git pull origin agni_mgmt 
+git log
+clear
+docker container ls
+ls
+cd sales_eet_agni/
+clear
+ls
+cd demo/
+ls
+nano demo.xml 
+nano demo.xml 
+nano demo.xml 
+nano demo.xml 
+exit
+docker container stop acipl
+clear
+exi
+exit
+cd addons/acipl/agni-cements-odoo-modules/
+git status
+git diff
+git checkout -- .
+git status
+exit
+docker ps -a
+docker start aqua_world 
+ls
+clear
+ls
+clear
+ls
+rm Sprint\ Report\ \(Completed\ Stories\)*
+rm Sprint\ Report\ \(Completed\ Stories\)* -f
+clear
+docker ps
+ls
+clear
+ls
+docker ps
+docker inspect aqua_world 
+ping 172.17.0.3
+curl 
+curl 172.17.0.3:8069
+cd addons/
+ls

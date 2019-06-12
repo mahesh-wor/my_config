@@ -1,0 +1,953 @@
+    1  dockerodoo acipl
+    2  sudo date -s '2019-04-23 05:45:00'
+    3  sudo date -s '2019-04-23 07:45:00'
+    4  sudo date -s '2019-04-23 00:45:00'
+    5  sudo date -s '2019-04-23 08:45:00'
+    6  sudo date -s '2019-04-23 05:45:00'
+    7  sudo date -s '2019-04-24 05:45:00'
+    8  sudo date -s '2019-04-23 07:45:00'
+    9  date -u
+   10  sudo date -s '2019-04-27 07:45:00'
+   11  sudo date -s '2019-04-17 07:45:00'
+   12  sudo date -s '2019-04-27 07:45:00'
+   13  date
+   14  sudo date -s '2019-04-28 07:45:00'
+   15  date
+   16  sudo date -s '2019-04-25 07:45:00'
+   17  date
+   18  sudo date -s '2019-04-25 07:45:00'
+   19  sudo date -s '2019-04-28 07:45:00'
+   20  date
+   21  sudo date -s '2019-04-15 07:45:00'
+   22  sudo date -s '2019-04-27 07:45:00'
+   23  sudo date -s '2019-04-21 07:45:00'
+   24  sudo date -s '2019-04-26 07:45:00'
+   25  sudo date -s '2019-04-30 07:45:00'
+   26  sudo date -s '2019-05-01 07:45:00'
+   27  sudo date -s '2019-05-01 17:45:00'
+   28  sudo date -s '2019-04-22 17:45:00'
+   29  date
+   30  date -u
+   31  ssh agnistaging@192.168.103.40
+   32  sudo apt update
+   33  ssh agnistaging@192.168.103.40
+   34  attend mahesh checkin
+   35  attend mahesh checkout
+   36  ssh ubuntu@202.51.75.207
+   37  ssh ubuntu@202.51.75.207
+   38  ssh ubuntu@202.51.75.207
+   39  zzz
+   40  qwer 
+   41  zzz
+   42  ssh agnistaging@192.168.103.30
+   43  ssh agnistaging@192.168.103.30
+   44  attend mahesh checkin
+   45  ssh agnistaging@192.168.103.30
+   46  cat /etc/cron.daily/sysstat 
+   47  cat /etc/cron.daily/logrotate 
+   48  man logrotate
+   49  systemd-analyze 
+   50  systemd-analyze blame
+   51  find / -xtype l -print
+   52  find . -xtype l
+   53  du -g /var/log/
+   54  du -h /var/log/
+   55  sudo du -h /var/log/
+   56  cd /var/cache/
+   57  ls
+   58  cd snapd/
+   59  ls
+   60  cd aux/
+   61  ls
+   62  ls /
+   63  cd /etc/kernel/
+   64  ls
+   65  $ systemctl --failed
+   66  systemctl --failed
+   67  sudo systemctl --failed
+   68  cat /etc/systemd/system.conf 
+   69  hs /etc/
+   70  ls /boot/
+   71  uname -a
+   72  ls -lh
+   73  ls -lh  /boot/
+   74  ls
+   75  sudo apt install bleachbit 
+   76  vmstat 
+   77  vmstat -h
+   78  vmstat -disk
+   79  vmstat --disk
+   80  vmstat 
+   81  vmstat --help
+   82  top
+   83  htop
+   84  ps tree
+   85  ssh agnistaging@192.168.103.30
+   86  sudo date -s '2019-04-22 17:45:00'
+   87  hs date
+   88  sudo date -s '2019-04-22 17:45:00'
+   89  sudo date -s '2019-04-30 07:45:00'
+   90  sudo date -s '2019-04-30 08:58:00'
+   91  dexec acipl
+   92  docker staop acipl
+   93  docker stop acipl db10
+   94  docker ps
+   95  docker start db10
+   96  docker start acipl
+   97  ls
+   98  docker ps
+   99  dockerodoo 
+  100  dockerodoo acipl
+  101  ssh agnistaging@192.168.103.40
+  102  qwer 
+  103  cd /var/log/
+  104  ls
+  105  cat faillog 
+  106  cat wtmp
+  107  >/wtmp
+  108  sudo >/wtmp
+  109  ls
+  110  cat syslog
+  111  >/var/log/sysl
+  112  sudo >/var/log/sysl
+  113  >/var/log/sysl
+  114  cd /tmp/
+  115  ls
+  116  echo hello hi > foo
+  117  >foo
+  118  cat foo 
+  119  ls
+  120  nano google_account/models/google_service.py
+  121  services --status-all
+  122  service --status-all
+  123  cat /proc/sys/vm/swappiness 
+  124  python3
+  125  systemctl --failed
+  126  systemd-analyze 
+  127  systemd-analyze blame 
+  128  service --status-all
+  129  service --status-all | grep +
+  130  cat /etc/default/grub
+  131  cat  /etc/cron.daily/dpkg 
+  132  cd  /etc/cron.daily/
+  133  ls
+  134  cat mdadm 
+  135  cat sysstat 
+  136  ls
+  137  cd ..
+  138  crontab -e
+  139  ls
+  140  cd /var/log/
+  141  ls
+  142  tail -f dpkg.log
+  143  lear
+  144  apt autoremove 
+  145  sudo apt autoremove 
+  146  cd /boot/
+  147  ls
+  148  ls -lh
+  149  apt get upgrade
+  150  apt upgrade
+  151  sudo apt upgrade
+  152  clear
+  153  ls .cache/ 
+  154  ls
+  155  cd /var/lib/apt/lists/
+  156  ls
+  157  pwd
+  158  clear
+  159  ls
+  160  car /var/logs
+  161  cd /var/log/
+  162  ls
+  163  du -h ./
+  164  ls
+  165  ls /
+  166  ls -lh
+  167  ls -lh /
+  168  cat /etc/apt/sources.list
+  169  clear
+  170  cat /etc/passwd
+  171  lear
+  172  clear
+  173  cd /tmp/
+  174  ls
+  175  echo hi hello > log
+  176  cat log 
+  177  >log 
+  178  ls
+  179  cat log 
+  180  vmstat 
+  181  vmstat --help
+  182  free -h
+  183  cd /etc/cron.daily/
+  184  ls
+  185  cat /etc/systemd/system.conf 
+  186  clear
+  187  df -h
+  188  lsblk 
+  189  prime-select 
+  190  ps aux
+  191  clear
+  192  sudo date -s '2019-04-30 08:58:00'
+  193  ssh agnistaging@192.168.103.40
+  194  ssh ubuntu@202.51.75.207
+  195  docker start db10
+  196  docker ps -a
+  197  docker start bi-inhouse 
+  198  docker ps -a
+  199  docker stop bi-inhouse 
+  200  docker start aqua_world 
+  201  docker ps -a
+  202  attend mahesh checkout
+  203  zzz
+  204  qwer 
+  205  ssh agnistaging@192.168.103.30
+  206  ps aux | grep kee
+  207  netdata 
+  208  netdata --help
+  209  killall netdata 
+  210  sudo killall netdata 
+  211  ifconfig 
+  212  qwer 
+  213  ssh agnistaging@192.168.103.30
+  214  qwer 
+  215  ssh agnistaging@192.168.103.30
+  216  zzz
+  217  killall firefo
+  218  killall firefox
+  219  ssh agnistaging@192.168.103.30
+  220  qwer 
+  221  ssh binec@192.168.1.222
+  222  ping 192.168.1.222
+  223  viber-unofficial.viber 
+  224  ssh binec@192.168.1.222
+  225  man ssh-keyscan 
+  226  ping 192.168.1.223
+  227  ifconfig 
+  228  ping 192.168.1.198
+  229  pip install tryton==3.4.17
+  230  sudo pip install tryton==3.4.17
+  231  tryton 
+  232  sudo tryton 
+  233  pip remove tryton
+  234  sudo dpkg -i tryton-client_3.4.0-1_all.deb 
+  235  sudo dpkg -i tryton-client-doc_3.4.3-1ubuntu0~ppa1~trusty_all.deb 
+  236  sudo dpkg -i tryton-client_3.4.3-1ubuntu0~ppa1~trusty_all.deb 
+  237  sudo apt remove tryton-client 
+  238  nano /tmp/
+  239  nano /tmp/fo
+  240  sudo add-apt-repository ppa:rayanayar/tryton-3.4
+  241  apt install tryton-
+  242  apt install tryton-client
+  243  sudo apt install tryton-client
+  244  sudo apt remove tryton-client 
+  245  ifconfig 
+  246  ssh gnuhealth@192.168.1.198
+  247  pip install thalamus
+  248  pip install --user thalamus
+  249  ls
+  250  http --verify no --auth 
+  251  sudo apt install httpie
+  252  http --verify no --auth admin:gnusolidario http://192.168.1.198
+  253  http --verify no --auth admin:gnusolidario http://192.168.1.198:8000
+  254  http --verify no --auth admin:gnusolidario https://192.168.1.198:8000
+  255  http --verify no --auth admin:gnusolidario http://192.168.1.198:8000
+  256  http --verify no --auth admin:gnusolidario http://192.168.1.198:8000/people
+  257  python2
+  258  nano /tmp/fo
+  259  clear
+  260  cp /tmp/fo ~/
+  261  tryton-client 
+  262  sudo tryton-client 
+  263  pip uninstall tryton
+  264  sudo pip uninstall tryton
+  265  sudo dpkg -i tryton-client_3.4.0-1_all.deb 
+  266  sudo apt remove tryton-client 
+  267  nmap 192.168.1.198 
+  268  ssh binec@192.168.1.222
+  269  docker ps -a
+  270  ssh gnuhealth@192.168.1.198
+  271  ssh gnuhealth@192.168.1.198
+  272  ssh root@192.168.1.198
+  273  ssh gnuhealth@192.168.1.198
+  274  ls
+  275  docker ps
+  276  docker ps -a
+  277  docke start faae2a620d90
+  278  docker start faae2a620d90
+  279  docker start 393d6f841a01
+  280  docker start faae2a620d90
+  281  ls
+  282  cd tmp/
+  283  cd gnuhealth/
+  284  ls
+  285  sudo docker-compose up
+  286  docker ps 
+  287  dexec gnuhealth_db_1
+  288  nmap 192.168.1.198
+  289  nmap -p 5000 192.168.1.198
+  290  ssh gnuhealth@192.168.1.198
+  291  cat << EOT > /etc/libvirt/qemu.conf
+  292  user  = "oneadmin"
+  293  group = "oneadmin"
+  294  dynamic_ownership = 0
+  295  EOT
+  296  sudo cat << EOT > /etc/libvirt/qemu.conf
+  297  user  = "oneadmin"
+  298  group = "oneadmin"
+  299  dynamic_ownership = 0
+  300  EOT
+  301  cat << EOT > /etc/libvirt/qemu.conf
+  302  user  = "oneadmin"
+  303  group = "oneadmin"
+  304  dynamic_ownership = 0
+  305  nano /etc/libvirt/qemu.conf
+  306  ssh binec@192.168.1.222
+  307  sudo snap install protonmail-desktop-unofficial 
+  308  attend mahesh checkout
+  309  ssh gnuhealth@192.168.1.198
+  310  ssh root@192.168.1.198
+  311  zzz
+  312  reboot 
+  313  qwer 
+  314  clear
+  315  qwer 
+  316  reboo
+  317  reboot
+  318  lsblk
+  319  umount /dev/sda5
+  320  sudo umount /dev/sda5
+  321  sudo umount /media/mahesh/Files 
+  322  sudo 
+  323  sudo umount /media/mahesh/Files 
+  324  sudo umount /dev/sda5
+  325  reboot 
+  326  reboot
+  327  ssh agnistaging@192.168.103.30
+  328  ssh binec@192.168.1.222
+  329  sudo snap install viber-unofficial 
+  330  sudo snap refresh 
+  331  sudo snap refresh viber-unofficial 
+  332  docker ps -a
+  333  docker start db10
+  334  docker start aqua_world
+  335  clear
+  336  ls
+  337  docker ps -a
+  338  ssh gnuhealth@192.168.1.198
+  339  ssh binec@192.168.1.222
+  340  dockerodoo aqua_world
+  341  ssh ubuntu@202.51.75.207
+  342  ssh agnistaging@192.168.103.30
+  343  ssh ubuntu@202.51.75.207
+  344  python2
+  345  ifconfig 
+  346  ssh dell@192.168.1.69
+  347  ssh ubuntu@202.51.75.207
+  348  ssh ubuntu@202.51.75.207
+  349  ls
+  350  qwer 
+  351  cd addons/
+  352  l
+  353  ls
+  354  cd aquaworld-addons/
+  355  ls
+  356  ssh root@192.168.1.198
+  357  ssh root@axonsystem.com.np
+  358  ping 192.168.1.200
+  359  ifconfig 
+  360  ssh root@192.168.1.198
+  361  docker start bi-inhouse 
+  362  clear
+  363  ls
+  364  checkou
+  365  attend mahesh checkout
+  366  zzz
+  367  ssh gnuhealth@192.168.1.198
+  368  ssh agnitwo@192.168.103.25
+  369  docker start db10
+  370  docker start acipl
+  371  docker px
+  372  docker ps
+  373  woeusb 
+  374  hs woeusb
+  375  ssh agnistaging@192.168.103.30
+  376  qwer 
+  377  nslookup bireport.agnicement.com
+  378  ssh agnistaging@192.168.103.30
+  379  qwq
+  380  qwer 
+  381  wqer 
+  382  lsblk 
+  383  sudo mkfs.vfat -I /dev/sdb -n "USB"
+  384  lsblk 
+  385  hs woeusb
+  386  sudo woeusb --device /home/mahesh/Windows\ 7\ SP1\ X86\ X64\ AIO\ OEM\ 27in1\ en-US\ APRIL\ 2018\ \{Gen2\}/W7AIO.OEM.ENU.APR2018.iso /dev/sdb
+  387  sudo umount /dev/sdb1 
+  388  sudo woeusb --device /home/mahesh/Windows\ 7\ SP1\ X86\ X64\ AIO\ OEM\ 27in1\ en-US\ APRIL\ 2018\ \{Gen2\}/W7AIO.OEM.ENU.APR2018.iso /dev/sdb
+  389  top
+  390  free -h
+  391  cpuz
+  392  ls
+  393  clear
+  394  ls
+  395  cpuz
+  396  watch -n .2 cpuz
+  397  top
+  398  docker ps -a
+  399  docker ps -a | grep Up
+  400  docker stop acipl 
+  401  docker stop aqua_world 
+  402  top
+  403  attend mahesh checkin
+  404  rm -rf Aquaworld/
+  405  git clone https://gitlab.com/BI-NEP/Aquaworld
+  406  git clone https://gitlab.com/BI-NEP/Aquaworld --depth=1
+  407  docker start db10
+  408  docker start aqua_world 
+  409  docker ps -a
+  410  dockerodoo aqua_world
+  411  docker ps -a
+  412  dockerodoo aqua_world
+  413  ssh agnistaging@192.168.103.30
+  414  ssh agnift1@192.168.103.40
+  415  ssh agnitwo@192.168.103.25
+  416  ssh shubashree@192.168.103.35
+  417  ssh ubuntu@202.51.75.207
+  418  clear
+  419  ls
+  420  ssh agnitwo@192.168.103.25
+  421  ifconfig 
+  422  docker start db10
+  423  ls
+  424  docker ps
+  425  docker start acipl
+  426  cd addons/acipl/agni-cements-odoo-modules/
+  427  ls
+  428  pwd
+  429  ls
+  430  clear
+  431  ls
+  432  ssh agnistaging@192.168.103.30
+  433  docker ps
+  434  cd addons/acipl/agni-cements-odoo-modules/
+  435  ls
+  436  git pull origin agni_mgmt 
+  437  git status
+  438  qwer 
+  439  sudo apt remove brave-browser 
+  440  clear
+  441  sudo nano /etc/apt/sources.list.d/brave-browser-release-bionic.list
+  442  clear
+  443  cd addons/
+  444  ls
+  445  cd aquaworld-addons/
+  446  ls
+  447  cd Aquaworld/
+  448  ls
+  449  git push origin aqua_help_menu_md 
+  450  docker container ls 
+  451  docker container stop acipl && docker container start -i acipl
+  452  docker container stop acipl && docker container start -i acipl
+  453  docker container stop acipl && docker container start -i acipl
+  454  exit
+  455  ls
+  456  ls -l
+  457  clear 
+  458  htop
+  459  cd addons/
+  460  ls
+  461  cd acipl/
+  462  git status
+  463  ls
+  464  cd agni-cements-odoo-modules/
+  465  ls
+  466  git status
+  467  git diff
+  468  git status
+  469  git status
+  470  git checkout -- .
+  471  git status
+  472  git remote -v
+  473  git pull origin agni_mgmt 
+  474  git log
+  475  clear
+  476  docker container ls
+  477  ls
+  478  cd sales_eet_agni/
+  479  clear
+  480  ls
+  481  cd demo/
+  482  ls
+  483  nano demo.xml 
+  484  nano demo.xml 
+  485  nano demo.xml 
+  486  nano demo.xml 
+  487  exit
+  488  docker container stop acipl
+  489  clear
+  490  exi
+  491  exit
+  492  cd addons/acipl/agni-cements-odoo-modules/
+  493  git status
+  494  git diff
+  495  git checkout -- .
+  496  git status
+  497  exit
+  498  docker ps -a
+  499  docker start aqua_world 
+  500  ls
+  501  clear
+  502  ls
+  503  clear
+  504  ls
+  505  rm Sprint\ Report\ \(Completed\ Stories\)*
+  506  rm Sprint\ Report\ \(Completed\ Stories\)* -f
+  507  clear
+  508  docker ps
+  509  ls
+  510  clear
+  511  ls
+  512  docker ps
+  513  docker inspect aqua_world 
+  514  ping 172.17.0.3
+  515  curl 
+  516  curl 172.17.0.3:8069
+  517  cd addons/
+  518  ls
+  519  docker inspect odoo11
+  520  ifconfig 
+  521  dokcer ps
+  522  docker ps
+  523  ssh agnistaging@192.168.103.30
+  524  ssh ubuntu@202.51.75.207
+  525  ping 202.166.207.75
+  526  nmap 202.166.207.75
+  527  nmap -p 9050 202.166.207.75
+  528  nmap -Pn -p 9050 202.166.207.75
+  529  nmap -Pn -p 1-1000 202.166.207.75
+  530  dockerodoo aqua_world
+  531  docker stop aqua_world 
+  532  docker ps -a
+  533  docker start aqua_world 
+  534  docker stop aqua_world 
+  535  docker rm odoo11
+  536  clear
+  537  ls
+  538  clear
+  539  ls
+  540  hd run
+  541  hs run
+  542  ls
+  543  cd addons/
+  544  l
+  545  odoo11-addons
+  546  ls
+  547  mkcdodoo11-addons
+  548  mkcd odoo11-addons
+  549  ls
+  550  pwd
+  551  hs run
+  552  hs docker 
+  553  ls
+  554  cp ~/.bash_history ~/.bash_history_1
+  555  ls
+  556  docker run -p 8082:8069 -v   451  docker container stop acipl && docker container start -i acipl
+  557  docker run -p 8082:8069 -v /home/mahesh/addons/odoo11-addons
+  558  docker run -p 8082:8069 -v /home/mahesh/addons/odoo11-addons:/opt/extra-addons --name odoo11 -t odoo:11
+  559  ls
+  560  docker rm odo11
+  561  docker rm odoo1
+  562  docker rm odoo11
+  563  docker rm odoo11 -f
+  564  clear
+  565  ls
+  566  history 
+  567  docker run -p 8082:8069 -v /home/mahesh/addons/odoo11-addons:/opt/extra-addons --name odoo11 --link db10:db -t odoo:11
+  568  attend mahesh checkout
+  569  zzz
+  570  nmcli 
+  571  clear
+  572  ls
+  573  docker start db10
+  574  ssh agnistaging@192.168.103.30
+  575  ssh ubuntu@202.51.75.207
+  576  ssh agnistaging@192.168.103.30
+  577  ssh ubuntu@202.51.75.207
+  578  ls
+  579  cd /boot/
+  580  ls
+  581  uname -r
+  582  ssh ubuntu@202.51.75.207
+  583  qwer 
+  584  ssh ubuntu@202.51.75.207
+  585  ssh root@axonsystem.com.np
+  586  printf 'addons_path=${OE_HOME_EXT}/addons,${OE_HOME}/custom/addons\n
+  587  printf 'addons_path=${OE_HOME_EXT}/addons,${OE_HOME}/custom/addons'
+  588  ssh ubuntu@202.51.75.207
+  589  docker ps -a
+  590  docker start db10
+  591  docker start aqua_world 
+  592  dexec aqua_world
+  593  dexec db10
+  594  ssh ubuntu@202.51.75.207
+  595  ssh dell@192.168.1.69
+  596  ssh ubuntu@202.51.75.207
+  597  ssh ubuntu@202.51.75.207
+  598  free -h
+  599  top
+  600  free
+  601  free -h
+  602  scp ubuntu@202.51.75.207:/home/ubuntu/aqua-staging.tar.gz ./
+  603  clear
+  604  ssh ubuntu@202.51.75.207
+  605  ssh agnistaging@192.168.103.30
+  606  ssh ubuntu@202.51.75.207
+  607  who
+  608  whoami 
+  609  ps
+  610  ssh agnistaging@192.168.103.30
+  611  top
+  612  ls
+  613  ssh ubuntu@202.51.75.207
+  614  ssh ubuntu@202.51.75.207
+  615  zzz
+  616  ssh agnistaging@192.168.103.30
+  617  attend mahesh checkin
+  618  attend mahesh checkout
+  619  attend mahesh checkin
+  620  ifconfig 
+  621  ssh agnistaging@192.168.103.30
+  622  ssh ubuntu@202.51.75.207
+  623  docker start db10
+  624  docker start aqua_world 
+  625  docker ps
+  626  ssh ubuntu@202.51.75.207
+  627  qwer 
+  628  ssh ubuntu@202.51.75.207
+  629  ssh ubuntu@202.51.75.207
+  630  systemd-analyze 
+  631  clear
+  632  sudo service docker stop
+  633  ssh ubuntu@202.51.75.207
+  634  ls -a .ssh/
+  635  lxc list
+  636  ssh ubuntu@202.51.75.207
+  637  ssh root@axonsystem.com.np
+  638  ssh ubuntu@202.51.75.207
+  639  ssh ubuntu@202.51.75.207
+  640  free -h
+  641  ssh ubuntu@202.51.75.207
+  642  npm dist
+  643  npm start dist
+  644  npm run
+  645  npm run build.js 
+  646  npm run build
+  647  npm run dist
+  648  npm run dist 
+  649  cd /opt/
+  650  ls
+  651  cd BIERP/
+  652  ls
+  653  sudo nano url 
+  654  sudo apt install  chromium-browser
+  655  df -h
+  656  ssh agnift1@192.168.103.40
+  657  ssh agnistaging@192.168.103.40
+  658  ls
+  659  nmap 202.51.75.207
+  660  nmap -p 8081 202.51.75.207
+  661  nc 202.51.75.207 8081
+  662  ssh ubuntu@202.51.75.207
+  663  zzz
+  664  ssh agnistaging@192.168.103.40
+  665  ssh agnistaging@192.168.103.30
+  666  ssh ubuntu@202.51.75.207
+  667  ssh ubuntu@202.51.75.207
+  668  ping monitor.aquaworld.com.np
+  669  curl monitor.aquaworld.com.np
+  670  curl monitor.aquaworld.com.np:8080
+  671  scp ubuntu@202.51.75.207:/home/ubuntu/backups/aqua-db-shrawn.2019-04-25.zip  ./
+  672  ssh ubuntu@202.51.75.207
+  673  cd addons/
+  674  ls
+  675  cd aquaworld-addons/
+  676  ls
+  677  cd Aquaworld/
+  678  ls
+  679  git branch
+  680  git checkout aqua11 
+  681  git fetch 
+  682  git pull origin aqua11 
+  683  clear
+  684  docker start db10
+  685  docker start aqua_world 
+  686  docker ps
+  687  qwer 
+  688  ping 8.8.8.8
+  689  qwer 
+  690  sudo nano /etc/resolv
+  691  sudo nano /etc/resolv.conf 
+  692  qwer 
+  693  ssh ubuntu@202.51.75.207
+  694  clear
+  695  zzz
+  696  route -n
+  697  ifconfig 
+  698  docker ps
+  699  ssh ubuntu@202.51.75.207
+  700  ssh ubuntu@202.51.75.207
+  701  docker start db
+  702  docker start db10
+  703  docker ps -a
+  704  docker start aqua_world
+  705  docker ps
+  706  dockerodoo aqua_world
+  707  zzz
+  708  qwer 
+  709  ssh ubuntu@202.51.75.207
+  710  zzz
+  711  wqer 
+  712  ssh agnistaging@192.168.103.30
+  713  zzz
+  714  ssh agnistaging@192.168.103.30
+  715  date
+  716  cd /var/log/
+  717  ls
+  718  cat syslog
+  719  sudo apt remove cockpit
+  720  ssh ubuntu@202.51.75.207
+  721  sudo apt autoremove 
+  722  top
+  723  sudo service --status-all
+  724  dexec aqua_world
+  725  htop
+  726  free -h
+  727  hs mount
+  728  ifconfig 
+  729  docker ps
+  730  docker start db10
+  731  docker start aqua_world 
+  732  clear
+  733  ls
+  734  docker ps
+  735  cd addons/
+  736  ls
+  737  cd aquaworld-addons/
+  738  ls
+  739  cd Aquaworld/
+  740  git status
+  741  git log
+  742  git log | tac
+  743  git log --oneliine
+  744  git log --oneline
+  745  git log --onelinels
+  746  ls
+  747  ls my_addons/
+  748  git branch 
+  749  git checkout c6dee01
+  750  ls my_addons/
+  751  qwer 
+  752  hs http
+  753  python3
+  754  python3 -m http.server
+  755  python3 -m http.server -p 8888
+  756  python3 -m http.server  8888
+  757  ssh ubuntu@202.51.75.207
+  758  ssh ubuntu@202.51.75.207
+  759  touch hi
+  760  rm hi 
+  761  dd if=/dev/null of=./ bs=1M count=1024 oflag=dsync
+  762  dd if=/dev/null of=./103D7000/ bs=1M count=1024 oflag=dsync
+  763  ls
+  764  cd addons/aquaworld-addons/
+  765  ls
+  766  cd Aquaworld/
+  767  ls
+  768  git pull origin master
+  769  git pull origin aqua11 
+  770  ls
+  771  cd my_addons/
+  772  ls
+  773  clear
+  774  ls
+  775  clear
+  776  ls
+  777  docker ps
+  778  docker ps -a
+  779  wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+  780  sudo nano /etc/apt/sources.list.d/jekins.list
+  781  sudo apt-get update
+  782  ls /etc/apt/sources.list
+  783  ls  /etc/apt/sources.list.d/
+  784  cd   /etc/apt/sources.list.d/
+  785  ls
+  786  sudo rm brave-browser-release-bionic.list* juju-ubuntu-stable-bionic.list* nilarimogard-ubuntu-webupd8-bionic.list* virtualbox.list* teamviewer.list
+  787  ls
+  788  rm rayanayar-ubuntu-tryton-3_4-bionic.list 
+  789  sudo rm rayanayar-ubuntu-tryton-3_4-bionic.list 
+  790  sudo rm google-chrome.list*
+  791  sudo apt update
+  792  sudo apt install jenkins
+  793  ssh agnistaging@192.168.103.30
+  794  nslookup bireport.agnicement.com
+  795  ssh agnistaging@192.168.103.30
+  796  ssh moad@202.45.144.155
+  797  clear
+  798  ls
+  799  docker ps -a
+  800  docker run -p 8080:8080 -p 50000:50000 -v /home/mahesh/addons/:/var/jenkins_home jenkins/jenkins:lts --name jenkins
+  801  docker run -p 8080:8080 -p 50000:50000 -v /home/mahesh/addons:/var/jenkins_home jenkins/jenkins:lts --name jenkins
+  802  docker run -p 8080:8080 -p 50000:50000 -v /home/mahesh/addons:/var/jenkins_home --name jenkins jenkins/jenkins:lts
+  803  dockerodoo aqua_world
+  804  ls
+  805  dockerodoo aqua_world
+  806  docker ps 
+  807  ls
+  808  docker ps -a
+  809  docker rm 566fc74c5940
+  810  cmatrix 
+  811  date
+  812  ssh agnistaging@192.168.103.30
+  813  qwer 
+  814  reboot 
+  815  ssh moad@202.45.144.155
+  816  ifconfig 
+  817  ls
+  818  cd /etc/hostapd/
+  819  ls
+  820  cd ..
+  821  ls
+  822  nano hosts
+  823  sudo nano hosts
+  824  sudo apt install dnsmasq
+  825  sudo nano hosts
+  826  cd /tmp/
+  827  ls
+  828  git clone https://github.com/oblique/create_ap
+  829  ls
+  830  cd create_ap/
+  831  ls
+  832  make install 
+  833  sudo make install 
+  834  ls
+  835  create_ap wlp5s0 wlp5s0 foobar foobar
+  836  sudo create_ap wlp5s0 wlp5s0 foobar foobar
+  837  sudo apt install hostapd
+  838  sudo apt remove jenkins
+  839  sudo apt install hostapd
+  840  clear
+  841  sudo create_ap wlp5s0 wlp5s0 foobar foobar
+  842  sudo create_ap wlp5s0 wlp5s0 foobar foobar123
+  843  clear
+  844  sudo create_ap wlp5s0 wlp5s0 foobar foobar122
+  845  sudo create_ap wlp5s0 wlp5s0 foobar foobar123
+  846  zzz
+  847  ssh moad@202.45.144.155
+  848  qwer 
+  849  ssh agnistaging@192.168.103.30
+  850  qwer 
+  851  ssh agnistaging@192.168.103.30
+  852  df -h
+  853  docker start db10
+  854  docker start aqua_world 
+  855  docker ps
+  856  ls
+  857  hs lxc
+  858  qwer 
+  859  dockerodoo aqua_world
+  860  lxc list
+  861  lxd init
+  862  lxc list
+  863  sudo su
+  864  lxc-create -t download -n bierp-alpine
+  865  sudo apt install lxc lxd
+  866  lxc-create -t download -n bierp-alpine
+  867  lxc-create -t download -n bierp-alpine -- --no-validate
+  868  lxc list
+  869  lxc exec bierp-alpine bash
+  870  lxc-execute bierp-alpine bash
+  871  lxc exec  bierp-alpine bash
+  872  lxc exec bierp-alpine bash
+  873  cd addons/
+  874  ls
+  875  cd aquaworld-addons/
+  876  ls
+  877  cd Aquaworld/
+  878  ls
+  879  cd my_addons/
+  880  ls
+  881  ssh binec@192.168.1.222
+  882  ping 192.168.1.222
+  883  ssh binec@192.168.1.222
+  884  ping 192.168.1.222
+  885  ssh binec@192.168.1.222
+  886  dexec db10
+  887  dexec aqua_world
+  888  dexec aqua_world
+  889  git clone https://github.com/oblique/create_ap
+  890  dexec aqua_world
+  891  ssh binec@192.168.1.222
+  892  lxc-create -t download -n bierp-alpine -- --no-validate
+  893  lxc-create -t download -n bier
+  894  dexec db10
+  895  dockerodoo aqua_world
+  896  docker ps
+  897  docker ps -a
+  898  docker ps
+  899  docker stop aqua_world 
+  900  docker stop db10
+  901  cd /var/lib/lxcfs/
+  902  ls
+  903  cd cgroup/
+  904  ls
+  905  cd ..
+  906  ls
+  907  cd ..
+  908  ls
+  909  cd ..
+  910  ls
+  911  cd /var/lib/
+  912  ls
+  913  apt remove --purge lxc* lxd*
+  914  sudo apt remove --purge lxc* lxd*
+  915  sudo apt remove --purge lxc*
+  916  sudo apt remove --purge lxc lxcfs lxc-utils 
+  917  sudo apt remove --purge lxd-client 
+  918  sudo apt autoremove autoclen
+  919  sudo apt autoremove autoclean
+  920  sudo apt autoremove 
+  921  sudo apt autoclean 
+  922  sudo apt update
+  923  sudo apt list --upgradaable
+  924  sudo apt list --upgradable
+  925  sudo apt upgrade
+  926  sudo apt install lxd
+  927  lxd init
+  928  lxc list
+  929  lxc-create -t download -n bierp-alpine -- --no-validate
+  930  apt install lxc-utils
+  931  sudo apt install lxc-utils
+  932  docker start db10
+  933  docker start aqua_world
+  934  docker ps
+  935  cd addons/aquaworld-addons/
+  936  s
+  937  l
+  938  cd Aquaworld/
+  939  ls
+  940  ssh binec@192.168.1.222
+  941  ssh moad@202.45.144.155
+  942  htop
+  943  top
+  944  uptime
+  945  ssh binec@192.168.1.222
+  946  ifconfig 
+  947  cd Game.of.Thrones.S08E03.1080p.WEB.H264-MEMENTO\[TGx\]/
+  948  ls
+  949  python3 -m http.server  8888
+  950  ls
+  951  cat .bash_history | grep mount
+  952  history | grep mount
+  953  history > .bash_history_2
